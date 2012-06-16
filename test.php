@@ -1,5 +1,5 @@
 <?php
 
-class test2 {
+class test3 {
 
 }
