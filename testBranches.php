@@ -1,5 +1,5 @@
 <?php
 
-class testBranches {
+class testBranches2 {
 
 }
